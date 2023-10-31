@@ -5,4 +5,4 @@ Incredibly Moist and Easy Carrot Cake  -- > line 2 changed remotely
 
 This is the recipe for a delicious carrot cake. I've made it twice so far, with good results!
 I found it online at: https://www.inspiredtaste.net/25753/carrot-cake-recipe/ --> Last line changed locally.
-### This is a LOCAL change :)
+### This is a REMOTE change :O
