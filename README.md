@@ -12,3 +12,4 @@ In a nutshell, <u> the steps </u> are to:
 3. Add the dry ingredients to the wet;
 4. Bake!
 
+![Carrot Cake](recipe.jpg)
